@@ -159,19 +159,20 @@ body{
 }
 .images{
     /* border:solid orange; */
-    width:50%;
+    width:30%;
     text-align: center;
     padding:1em;
 }
 .story{
     /* border:solid purple; */
-    padding-top:42px;
-    height:80%;
-    width:30%;
+    padding-top:22px;
+    height:100%;
+    width:40%;
 }
 .schoolContainer{
     border:solid black;
-    margin:1em;
+    margin:.5em;
+    padding:.4em;
     border-radius:22px;
     display:flex;
     justify-content: space-around;
